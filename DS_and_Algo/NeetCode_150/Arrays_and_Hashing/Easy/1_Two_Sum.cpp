@@ -1,7 +1,7 @@
 /*
 Link to problem - https://leetcode.com/problems/two-sum/
-Approach - Store the number and index in a map and iterate through elements while searching for target - element, time complexity of finding an element in a map is O(logn) (reference - https://leetcode.com/problems/two-sum/discuss/13/Accepted-C%2B%2B-O(n)-Solution)
-Time complexity - O(nlogn)
+Approach - Store the number and index in a map and iterate through elements while searching for target-element (reference - https://leetcode.com/problems/two-sum/discuss/13/Accepted-C%2B%2B-O(n)-Solution)
+Time complexity - O(n)
 Space complexity - O(n)
 */
 
